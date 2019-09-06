@@ -1,3 +1,9 @@
+https://csharp.hotexamples.com/examples/InTheHand.Net.Sockets/BluetoothClient/Connect/php-bluetoothclient-connect-method-examples.html
+
+EXAMPLE #24
+
+
+
 # ZeeClient
 
 Unofficial Zeemote client for Windows OS.
